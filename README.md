@@ -1,6 +1,7 @@
 <p align="center">
 | <img src="https://www.bisecthosting.com/images/CF/Dead_Light/BH_DL_Header.png" alt="Get your server today!"  width="1911" height="300"></a>|
 </p>
+
 ======
 
 This is the official repository and issue-tracker for Dead Light Z
@@ -9,6 +10,8 @@ This is the official repository and issue-tracker for Dead Light Z
 + https://www.curseforge.com/minecraft/modpacks/dead-light-z
 + https://www.technicpack.net/modpack/dead-light-z.1907257
 + https://atlauncher.com/pack/DeadLightZ
+
+======
   
 Need Help?
 ======
