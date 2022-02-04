@@ -2,7 +2,7 @@
 # Dead Light Z | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>0.0.1a</h1> 
+<h1>0.01a</h1> 
  
 + Initial Alpha Release.
 
