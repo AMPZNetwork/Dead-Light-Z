@@ -2,6 +2,34 @@
 # Dead Light Z | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>0.03b</h1> 
+ 
+**Updated:**
++ FancyMenu (2.6.1 → 2.6.4)
++ TekTopia Information (1.1.0-1.10.0 → 1.1.0-1.11.0)
++ Simple Discord RPC (2.7.1 → 2.7.2)
+
+**Changed/Fixed**
++ Fixed zombies not able to break blocks.
++ Fixed starting gear giving 2 lots of 4 torches.
++ Improved the custom main menu music behaviour.
++ Minor change to the tooltip for 3RD Life button.
++ Splash.txt file updated.
+
+**Added:**
++ PlayerRevive
++ Had Enough Items
++ Immersive Engineering
++ Immersive Posts
++ BisectHosting Server Integration Menu
+
+**Removed:**
++ Hardcore Revival
++ Just Enough Items
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Dead-Light-Z/issues)
+
+---------------------------------------------------------------------------------
 <h1>0.0.2a</h1> 
  
 **Updated:**
