@@ -1,7 +1,16 @@
+[![](https://www.bisecthosting.com/images/CF/Dead_Light/BH_DL_PromoCard.png) ](https://bisecthosting.com/AMPZ)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # Dead Light Z | Patch Notes
 ## Be sure to always backup your world(s) before updating!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>1.0</h1> 
+ 
++ Initial Release.
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/Dead-Light-Z/issues)
+
+---------------------------------------------------------------------------------
 <h1>0.03b</h1> 
  
 **Updated:**
