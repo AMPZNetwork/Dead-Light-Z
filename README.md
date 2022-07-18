@@ -6,7 +6,7 @@ This is the official repository and issue-tracker for Dead Light Z
     
 #### Modpack Links: 
 + [CurseForge](https://www.curseforge.com/minecraft/modpacks/dead-light-z)
-+ [Technic Pack](https://www.technicpack.net/modpack/dead-light-z.190725)
++ [Technic Pack](https://www.technicpack.net/modpack/dead-light-z.1907257)
 + [ATLauncher](https://atlauncher.com/pack/DeadLightZ)
 
 ======
